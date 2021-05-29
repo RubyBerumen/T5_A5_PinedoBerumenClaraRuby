@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">T5_A5_PinedoBerumenClaraRuby</string>
+
+    <string name="txt_titulo">Conversor temperaturas</string>
+    <string name="txt_convertir">Convertir:</string>
+    <string name="txt_caja"></string>
+    <string-array name="spinner_conversion">
+        <item>Centigrados</item>
+        <item>Fahrenheit</item>
+        <item>Rankine</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string name="txt_a">A:</string>
+    <string name="txt_igual">=</string>
+</resources>
