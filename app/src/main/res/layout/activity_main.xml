@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <EditText
-        android:id="@+id/caja_output"
+        android:id="@+id/caja2"
         android:layout_width="97dp"
         android:layout_height="36dp"
         android:layout_marginStart="252dp"
@@ -20,7 +20,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Spinner
-        android:id="@+id/spinner_output"
+        android:id="@+id/spinner2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="72dp"
@@ -41,10 +41,10 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/caja_input"
+        android:id="@+id/caja1"
         android:layout_width="80dp"
         android:layout_height="35dp"
-        android:layout_marginStart="120dp"
+        android:layout_marginStart="132dp"
         android:layout_marginTop="208dp"
         android:ems="10"
         android:inputType="numberSigned"
@@ -76,7 +76,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Spinner
-        android:id="@+id/spinner_input"
+        android:id="@+id/spinner1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="200dp"
